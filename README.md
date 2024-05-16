@@ -24,15 +24,11 @@
 </p>
 
 
-👨‍💻 I'm currently pursuing a Bachelor's degree in Software Engineering and am excited to be entering this exciting field. Fueled by a keen interest in programming and a drive to learn, I'm on a journey to develop my skills and having a blast while doing it!
+🧗🏼‍♂️ I'm currently pursuing a Bachelor's degree in Software Engineering and am excited to be entering this exciting field. Fueled by a keen interest in programming and a drive to learn, I'm on a journey to develop my skills and having a blast while doing it!
 ## Education
 
-🎓 **Software Engineering Degree** (in progress) - Unopar, Lavras, MG
-
-🏫 **Technical High School in Mechatronics** - CEFET-MG, Nepomuceno, MG
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=lccandido&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+🎓 **Software Engineering Degree** (in progress) - Unopar <br/>
+🏫 **Technical High School in Mechatronics** - CEFET-MG
 
 # 💻 Tech Stack
 
@@ -66,6 +62,10 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=lccandido&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
