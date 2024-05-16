@@ -2,7 +2,7 @@
 
 **`PROFESSIONAL MULTI-USE(DEVELOPER/MUSICIAN/STUDENT)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lccandido&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=C4ndid0&color=yellow" alt="Profile views" /> </p>
 
 
 
