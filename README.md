@@ -1,6 +1,6 @@
 # 🏄‍♂️ Lucas Candido
 
-**`PROFESSIONAL MULTI-USE(DEVELOPER/MUSICIAN/STUDENT)`**
+**`PROFESSIONAL MULTI-USE(Developer/Musician/Student)`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C4ndid0&color=yellow" alt="Profile views" /> </p>
 
